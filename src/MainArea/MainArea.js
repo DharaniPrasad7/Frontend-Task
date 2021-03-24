@@ -23,6 +23,7 @@ function MainArea() {
             <div>Home</div>
           </div>
           <div className="Quick_Icon">
+            y
             <FaGripfire color="grey" fontSize="3rem" />
             <div>Trending</div>
           </div>
